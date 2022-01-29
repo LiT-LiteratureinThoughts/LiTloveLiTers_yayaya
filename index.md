@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to LiT-Literature in Thoughts
+Ya Tết đến rồi nhỉ, LiT có một vài điều muốn gửi gắm đến LiTers bé nhỏ cute Hãy nhấn vào link để nhận yêu thương nha!
 
-You can use the [editor on GitHub](https://github.com/LiT-LiteratureinThoughts/LiTloveLiTers_yayaya/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Trước hết thì From Minh Hìn to LiTers:
+Nhân dịp năm mới 2022, t xin thay mặt toàn bộ Ban Điều Hành LiT gen 2 chúc mọi người một năm mới vui vẻ, may mắn, an yên, mạnh khoẻ và may mắn nha! Khoảng thời gian mà chúng ta đã đi qua với nhau t thực sự rất trân trọng và luôn ghi nhớ. Vì vậy, trong năm mới này chúng ta sẽ cùng nhau tạo thêm nhiều kỉ niệm và nhiệt huyết hết mình nhé! Chúc mọi người một năm Nhâm Dần tất cả những gì tốt đẹp nhất! 💖
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# CHUYÊN MÔN:
+Bảo Trân và Hà Giang đã gửi gắm rất nhiều tình yêu chp các cậu đóooooooo!
 
-### Markdown
+- Thu Thủy: http://bit.do/guitangThuThuy 
+- Minh Châu: http://bit.do/hiMinhChau 
+- Thùy Dương: http://bit.do/loveDuong 
+- Phương Thảo: http://bit.do/Thaoneeee 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# TÀI CHÍNH:
+http://bit.do/chucLancothemlung 
 
-```markdown
-Syntax highlighted code block
+# MEDES:
+https://lit-literatureinthoughts.github.io/MEDEStoasang/ 
 
-# Header 1
-## Header 2
-### Header 3
+# PR:
+http://bit.do/okPRxinchao 
 
-- Bulleted
-- List
+# SỰ KIỆN:
+Dạ vâng cùng chúc những đứa con zời đánh cùng tui chạy dl đi ạ! Chúc các đứa con ghẻ sẽ luôn luôn sôi nổi đừng để tôi gọi tên em trong đêm tôi sầu! https://lit-literatureinthoughts.github.io/Sukienbungchay/ 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiT-LiteratureinThoughts/LiTloveLiTers_yayaya/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# ĐẶC BIỆT NHẤT LÀ BAN NÀY:
+http://bit.do/ghetTynhungyeucovan 
